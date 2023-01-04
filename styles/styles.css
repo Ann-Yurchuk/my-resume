@@ -178,13 +178,14 @@ body {
 .sidebar {
   background-color: #1E2939;
   padding-top: 40px;
-  width: 370px;
+  width: 290px;
 }
 
 
 .photo {
-  width: 370px;
-  margin-bottom: 50px;
+  width: 290px;
+  margin-bottom: 20px;
+  border-radius: 70%;
 }
 
 .contacts, 
