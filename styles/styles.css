@@ -200,9 +200,11 @@ body {
 
 .photo {
   display: block;
-  width: 290px;
+  width: 250px;
   margin-bottom: 20px;
-  border-radius: 70%;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 80%;
 }
 
 .contacts,
